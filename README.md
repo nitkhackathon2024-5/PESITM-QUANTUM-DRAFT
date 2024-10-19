@@ -5,4 +5,4 @@ BHUVAN N
 SNEHA R BHAT
 VAISHNAVI A
 
-# Problem Stetment
+# Problem Statement
